@@ -1,0 +1,15 @@
+.submit1{
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background-color: rebeccapurple;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 18px;
+    color: aliceblue;
+    margin: 20px 0;
+    cursor: pointer;
+    border-radius: 3px;
+}
+

@@ -1,0 +1,17 @@
+.FormInput{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 5px;
+}
+input{
+    padding: 15px;
+    margin: 15px;
+    border: 1px solid gray;
+    border-radius: 3px;
+}
+
+label{
+    color: gray;
+    font-size: 15px;
+}
